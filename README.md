@@ -25,7 +25,8 @@ This is a web based application developed for related Petspatial based website i
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/117963272/203721694-6be355bb-5772-44d2-a1ab-8e4295b4b37a.png)
+
+![image](https://user-images.githubusercontent.com/117963272/203722841-c5b35518-fdb6-4e90-952e-f19044ea42d6.png)
 
 
 
